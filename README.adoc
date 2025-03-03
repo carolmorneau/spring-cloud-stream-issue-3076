@@ -1,0 +1,4 @@
+== Issue Reproduction Project
+
+* https://github.com/spring-cloud/spring-cloud-stream/issues/3076
+
